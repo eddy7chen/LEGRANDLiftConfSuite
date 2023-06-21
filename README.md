@@ -1,0 +1,2 @@
+# LEGRANDLiftConfSuite
+LEGRANDLiftConfSuite  Legrand国内版梯控配置软件
